@@ -9,6 +9,8 @@ i)To minimize loss from the bank’s perspective, the bank needs a decision rule
 
 i)	We will be looking into a Credit dataset  
 ii)	We will derive relations between a person socio-economic life style with his credit ratings 
+
 iii)	Based on these trends and patterns we will analysis the data 
+
 iv)	Using Models, we will be able to predict whether a client is creditworthy or not 
 
